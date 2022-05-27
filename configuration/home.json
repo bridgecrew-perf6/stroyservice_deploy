@@ -1,0 +1,240 @@
+{
+    "slides": [
+        {
+            "imageUrl": "slider/deva-darshan.jpg",
+            "header": "",
+            "description": ""
+        },
+        {
+            "imageUrl": "slider/jamar-penny.jpg",
+            "header": "",
+            "description": ""
+        },
+        {
+            "imageUrl": "slider/jimmy-desplanqu.jpg",
+            "header": "",
+            "description": ""
+        },
+        {
+            "imageUrl": "slider/maria-lupan.jpg",
+            "header": "",
+            "description": ""
+        },
+        {
+            "imageUrl": "slider/mika-baumeister.jpg",
+            "header": "",
+            "description": ""
+        },
+        {
+            "imageUrl": "slider/oleg-kuzmin.jpg",
+            "header": "",
+            "description": ""
+        },
+        {
+            "imageUrl": "slider/scott-blake.jpg",
+            "header": "",
+            "description": ""
+        },
+        {
+            "imageUrl": "slider/shane-mclendon.jpg",
+            "header": "",
+            "description": ""
+        }
+    ],
+    "ourServices": {
+        "header": "НАШИ СЕРВИСЫ",
+        "description": "Услуги по аренде строительной техники, и дорожные работы с гарантией",
+        "items": [
+            {
+                "imageUrl": "ourservices/tractors.png",
+                "header": "Укладка Асфальта",
+                "description": "Широкий спектр услуг по укладке асфальта",
+                "serviceList": [
+                    "Асфальтирование дорог и территорий",
+                    "Благоустройство территорий",
+                    "Укладка асфальтовой крошки"
+                ],
+                "detailUrl": "/content/services/asphalt"
+            },
+            {
+                "imageUrl": "ourservices/wioletta-plonkowska.png",
+                "header": "Аренда Спецтехники",
+                "description": "Аренда дорожно-строительной техники",
+                "serviceList": [
+                    "Асфальтоукладчики, Экскаваторы",
+                    "Самосвалы, Катки",
+                    "Виброплиты"
+                ],
+                "detailUrl": "/content/services/rent"
+            },
+            {
+                "imageUrl": "ourservices/john-kakuk.png",
+                "header": "Консультация",
+                "description": "Консультация специалистов",
+                "serviceList": [
+                    "Оценка работы",
+                    "Составление сметы",
+                    "Помощь специалистов"
+                ],
+                "detailUrl": "/content/services/consultation"
+            }
+        ]
+    },
+    "whyChooseUs": {
+        "header": "ПОЧЕМУ МЫ",
+        "description": "Качество и гарантия по конкурентным ценам",
+        "items": [
+            {
+                "url": "icons/award.png",
+                "title": "КАЧЕСТВО",
+                "text": "Укладка производится с использованием современных методов повышения качества дорожного полотна, при этом с полным соблюдением технологии и нормативных требований.",
+                "detailUrl": "/content/whychooseus/quality"
+            },
+            {
+                "url": "icons/shild.png",
+                "title": "ГАРАНТИЯ",
+                "text": "На восстановление дорог, равно как и на всякую иную услугу, действует гарантийное обеспечение согласно ГОСТу",
+                "detailUrl": "/content/whychooseus/warranty"
+            },
+            {
+                "url": "icons/price_r.png",
+                "title": "ЦЕНА",
+                "text": "Не смотря на высокое качество мы предлагаем лучшие цены на рынке. Наши специалисты оперативно посчитают точную стоимость после получения ТЗ. Выезд до клиента бесплатно.",
+                "detailUrl": "/content/whychooseus/price"
+            }
+        ]
+    },
+    "statistics": {
+        "roadBuilt": {
+            "lengthKm": 1500,
+            "label": "ПОСТРОЕНО ДОРОГ"
+        },
+        "successProject": {
+            "count": 150,
+            "label": "СДАННЫХ ПРОЕКТОВ"
+        },
+        "happyClient": {
+            "count": 50,
+            "label": "ДОВОЛЬНЫХ КЛИЕНТОВ"
+        },
+        "employees": {
+            "count": 20,
+            "label": "СОТРУДНИКОВ"
+        }
+    },
+    "latestProjects": {
+        "header": "ПОСЛЕДНИЕ ПРОЕКТЫ",
+        "description": "Качество и сроки наше конкурентное преимущество",
+        "images": [
+            {
+                "originalUrl": "latestprojects/1_proj.jpg",
+                "thumbnailUrl": "latestprojects/1_proj_t.jpg",
+                "width": 1280,
+                "height": 960
+            },
+            {
+                "originalUrl": "latestprojects/2_proj.jpg",
+                "thumbnailUrl": "latestprojects/2_proj_t.jpg",
+                "width": 1280,
+                "height": 960
+            },
+            {
+                "originalUrl": "latestprojects/3_proj.jpg",
+                "thumbnailUrl": "latestprojects/3_proj_t.jpg",
+                "width": 1280,
+                "height": 960
+            },
+            {
+                "originalUrl": "latestprojects/4_proj.jpg",
+                "thumbnailUrl": "latestprojects/4_proj_t.jpg",
+                "width": 1280,
+                "height": 960
+            },
+            {
+                "originalUrl": "latestprojects/5_proj.jpg",
+                "thumbnailUrl": "latestprojects/5_proj_t.jpg",
+                "width": 1280,
+                "height": 960
+            },
+            {
+                "originalUrl": "latestprojects/6_proj.jpg",
+                "thumbnailUrl": "latestprojects/6_proj_t.jpg",
+                "width": 1280,
+                "height": 960
+            },
+            {
+                "originalUrl": "latestprojects/7_proj.jpg",
+                "thumbnailUrl": "latestprojects/7_proj_t.jpg",
+                "width": 1280,
+                "height": 960
+            },
+            {
+                "originalUrl": "latestprojects/8_proj.jpg",
+                "thumbnailUrl": "latestprojects/8_proj_t.jpg",
+                "width": 1280,
+                "height": 960
+            },
+            {
+                "originalUrl": "latestprojects/9_proj.jpg",
+                "thumbnailUrl": "latestprojects/9_proj_t.jpg",
+                "width": 1280,
+                "height": 621
+            },
+            {
+                "originalUrl": "latestprojects/10_proj.jpg",
+                "thumbnailUrl": "latestprojects/10_proj_t.jpg",
+                "width": 960,
+                "height": 1280
+            }
+        ]
+    },
+    "aboutCompany": {
+        "header": "О КОМПАНИИ",
+        "description": "На рынке начиная с 2019 года",
+        "imageUrl": "aboutcompany/aboutCompanyCover.jpg",
+        "signatureUrl": "aboutcompany/signature.png",
+        "textHeader": "Письмо от основателя компании",
+        "text": "ООО «ДорСтройЯн» одна из ведущих компаний в Москве и Московской области по строительству дорог и оренде спецтехнихники по укладке асфальта. Компания успешно сотрудничает с такими компаниями как Магнит, Пятерочка, Мособлгаз и Газпром и порекомендовала себя с лучших сторон. Наша цель — довольные клиенты. Мы рассчитываем на сотрудничество.",
+        "author": "Ирицян Зори"
+    },
+    "clientSay": {
+        "header": "Что говорят наши клиенты",
+        "description": "Довольные клиенты наша гордость",
+        "clientSays": [
+            {
+                "person": "Купцов Антон",
+                "text": "Перед ТРЦ нужно было заасфальтировать парковку. Обращались в несколько компаний, здесь нам показалось более добросовестное обслуживание и по нормальным ценам. В итоге мы остались довольны, всё аккуратно, ровно, заасфальтировали в срок."
+            },
+            {
+                "person": "Климов Виктор",
+                "text": "Хочу выразить благодарность коллективу «ДорСтройЯн». Все работы были сделаны своевременно. Работа выполнена качественно. Нужно было проложить асфальт во дворе и сделать подъезд к участку. Выбрали сами разные материалы и технологии, объяснили, почему так лучше. Видно, что мастера точно знают, что делают."
+            },
+            {
+                "person": "Ковалов Руслан",
+                "text": "Заказывал в «ДорСтройЯн» асфальтирование территории около своего магазина. Очень порадовала скорость обработки заказа и его выполнение. Специалисты прибыли уже на следующий после подписания договора со всей необходимой техникой. Ребята очень ответственные, работают на высокой скорости, при этом качество на должном уровне. Уже больше двух лет покрытие в идеальном состоянии!"
+            }
+        ]
+    },
+    "clientLogo": {
+        "logos": [
+            {
+                "url": "icons/magnit.png"
+            },
+            {
+                "url": "icons/pyatorechka.png"
+            },
+            {
+                "url": "icons/lenta.png"
+            },
+            {
+                "url": "icons/ozon.png"
+            },
+            {
+                "url": "icons/mosoblgaz.png"
+            },
+            {
+                "url": "icons/gazprom.png"
+            }
+        ]
+    }
+}

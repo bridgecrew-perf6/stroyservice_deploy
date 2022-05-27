@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/stroyservice_deploy/static/css/main.bfce235f.css",
+    "main.js": "/stroyservice_deploy/static/js/main.278ee787.js",
+    "static/js/981.240e7194.chunk.js": "/stroyservice_deploy/static/js/981.240e7194.chunk.js",
+    "static/js/787.4ae1b5fe.chunk.js": "/stroyservice_deploy/static/js/787.4ae1b5fe.chunk.js",
+    "static/media/whychooseus.png": "/stroyservice_deploy/static/media/whychooseus.fed5b87f6bb8b494d406.png",
+    "index.html": "/stroyservice_deploy/index.html",
+    "main.bfce235f.css.map": "/stroyservice_deploy/static/css/main.bfce235f.css.map",
+    "main.278ee787.js.map": "/stroyservice_deploy/static/js/main.278ee787.js.map",
+    "981.240e7194.chunk.js.map": "/stroyservice_deploy/static/js/981.240e7194.chunk.js.map",
+    "787.4ae1b5fe.chunk.js.map": "/stroyservice_deploy/static/js/787.4ae1b5fe.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bfce235f.css",
+    "static/js/main.278ee787.js"
+  ]
+}
